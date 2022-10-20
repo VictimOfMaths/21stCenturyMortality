@@ -6,5 +6,10 @@ Analysis of [ONS' 21st Century Mortality data file](https://www.ons.gov.uk/peopl
 <img src="https://github.com/VictimOfMaths/21stCenturyMortality/blob/main/ASDEWProvisional22xAgev2.png" alt="Changes in alcohol-specific deaths by age in 2022."/>
 <figure-caption>Trends in alcohol-specific mortality in England & Wales 2001-2022.</figure-caption>
 </figure>
+<figure>
+<img src="https://github.com/VictimOfMaths/21stCenturyMortality/blob/main/ASDEW21stC22xAgeLexis.png" alt="Changes in alcohol-specific deaths by age in 2022."/>
+<figure-caption>Trends in alcohol-specific mortality in England & Wales 2001-2022.</figure-caption>
+</figure>
+
 <br><br>
 This repo can be cited as Angus, Colin (2022): 21st Century Mortality. The University of Sheffield. https://doi.org/10.15131/shef.data.21369081
