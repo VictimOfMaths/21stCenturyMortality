@@ -4,5 +4,5 @@ Analysis of [ONS' 21st Century Mortality data file](https://www.ons.gov.uk/peopl
 [AlcoholDrugDeaths21stC.R](https://github.com/VictimOfMaths/21stCenturyMortality/blob/main/AlcoholDrugDeaths21stC.R) analyses this data and calculates mortality rates from alcohol-specific causes and drug poisoning deaths from 2001-2021.
 <figure>
 <img src="https://github.com/VictimOfMaths/21stCenturyMortality/blob/main/ASDEWProvisional22xAgev2.png" alt="Changes in alcohol-specific deaths by age in 2022."/>
-<figure-caption>Figure 1. Trends in alcohol-specific mortality in England & Wales 2001-2022.</figure-caption>
+<figure-caption>Trends in alcohol-specific mortality in England & Wales 2001-2022.</figure-caption>
 </figure>
